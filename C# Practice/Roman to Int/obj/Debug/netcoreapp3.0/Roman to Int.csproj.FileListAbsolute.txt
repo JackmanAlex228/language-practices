@@ -1,0 +1,11 @@
+/Users/dexfenik/Documents/C# Practice/Roman to Int/bin/Debug/netcoreapp3.0/Roman to Int
+/Users/dexfenik/Documents/C# Practice/Roman to Int/bin/Debug/netcoreapp3.0/Roman to Int.deps.json
+/Users/dexfenik/Documents/C# Practice/Roman to Int/bin/Debug/netcoreapp3.0/Roman to Int.runtimeconfig.json
+/Users/dexfenik/Documents/C# Practice/Roman to Int/bin/Debug/netcoreapp3.0/Roman to Int.runtimeconfig.dev.json
+/Users/dexfenik/Documents/C# Practice/Roman to Int/bin/Debug/netcoreapp3.0/Roman to Int.dll
+/Users/dexfenik/Documents/C# Practice/Roman to Int/bin/Debug/netcoreapp3.0/Roman to Int.pdb
+/Users/dexfenik/Documents/C# Practice/Roman to Int/obj/Debug/netcoreapp3.0/Roman to Int.csprojAssemblyReference.cache
+/Users/dexfenik/Documents/C# Practice/Roman to Int/obj/Debug/netcoreapp3.0/Roman to Int.AssemblyInfoInputs.cache
+/Users/dexfenik/Documents/C# Practice/Roman to Int/obj/Debug/netcoreapp3.0/Roman to Int.AssemblyInfo.cs
+/Users/dexfenik/Documents/C# Practice/Roman to Int/obj/Debug/netcoreapp3.0/Roman to Int.dll
+/Users/dexfenik/Documents/C# Practice/Roman to Int/obj/Debug/netcoreapp3.0/Roman to Int.pdb

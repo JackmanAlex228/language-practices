@@ -1,0 +1,12 @@
+/Users/dexfenik/Documents/C# Practice/Scratch Paper 2/bin/Debug/netcoreapp3.1/Scratch Paper 2.deps.json
+/Users/dexfenik/Documents/C# Practice/Scratch Paper 2/bin/Debug/netcoreapp3.1/Scratch Paper 2.runtimeconfig.json
+/Users/dexfenik/Documents/C# Practice/Scratch Paper 2/bin/Debug/netcoreapp3.1/Scratch Paper 2.runtimeconfig.dev.json
+/Users/dexfenik/Documents/C# Practice/Scratch Paper 2/bin/Debug/netcoreapp3.1/Scratch Paper 2.dll
+/Users/dexfenik/Documents/C# Practice/Scratch Paper 2/bin/Debug/netcoreapp3.1/Scratch Paper 2.pdb
+/Users/dexfenik/Documents/C# Practice/Scratch Paper 2/obj/Debug/netcoreapp3.1/Scratch Paper 2.csprojAssemblyReference.cache
+/Users/dexfenik/Documents/C# Practice/Scratch Paper 2/obj/Debug/netcoreapp3.1/Scratch Paper 2.AssemblyInfoInputs.cache
+/Users/dexfenik/Documents/C# Practice/Scratch Paper 2/obj/Debug/netcoreapp3.1/Scratch Paper 2.AssemblyInfo.cs
+/Users/dexfenik/Documents/C# Practice/Scratch Paper 2/obj/Debug/netcoreapp3.1/Scratch Paper 2.dll
+/Users/dexfenik/Documents/C# Practice/Scratch Paper 2/obj/Debug/netcoreapp3.1/Scratch Paper 2.pdb
+/Users/dexfenik/Documents/C# Practice/Scratch Paper 2/obj/Debug/netcoreapp3.1/Scratch Paper 2.csproj.CoreCompileInputs.cache
+/Users/dexfenik/Documents/C# Practice/Scratch Paper 2/obj/Debug/netcoreapp3.1/Scratch Paper 2.genruntimeconfig.cache

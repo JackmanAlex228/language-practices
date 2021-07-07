@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L5gEAsGVYFRhzToCl/V+c0N0ILiFzAI2ukE/A/9dPhUlBoxhC6ZcQbDy3yem2s5F11f9kV5LvcznGSKbl21VeQ==",
+  "success": true,
+  "projectFilePath": "/Users/dexfenik/Documents/C# Practice/Scratch Paper 2/Scratch Paper 2.csproj",
+  "expectedPackageFiles": [
+    "/Users/dexfenik/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+/Users/dexfenik/Library/CloudStorage/iCloud Drive/Documents/C# Practice/Clock Angles/bin/Debug/netcoreapp2.1/Clock Angles.deps.json
+/Users/dexfenik/Library/CloudStorage/iCloud Drive/Documents/C# Practice/Clock Angles/bin/Debug/netcoreapp2.1/Clock Angles.runtimeconfig.json
+/Users/dexfenik/Library/CloudStorage/iCloud Drive/Documents/C# Practice/Clock Angles/bin/Debug/netcoreapp2.1/Clock Angles.runtimeconfig.dev.json
+/Users/dexfenik/Library/CloudStorage/iCloud Drive/Documents/C# Practice/Clock Angles/bin/Debug/netcoreapp2.1/Clock Angles.dll
+/Users/dexfenik/Library/CloudStorage/iCloud Drive/Documents/C# Practice/Clock Angles/bin/Debug/netcoreapp2.1/Clock Angles.pdb
+/Users/dexfenik/Library/CloudStorage/iCloud Drive/Documents/C# Practice/Clock Angles/obj/Debug/netcoreapp2.1/Clock Angles.csprojAssemblyReference.cache
+/Users/dexfenik/Library/CloudStorage/iCloud Drive/Documents/C# Practice/Clock Angles/obj/Debug/netcoreapp2.1/Clock Angles.csproj.CoreCompileInputs.cache
+/Users/dexfenik/Library/CloudStorage/iCloud Drive/Documents/C# Practice/Clock Angles/obj/Debug/netcoreapp2.1/Clock Angles.AssemblyInfoInputs.cache
+/Users/dexfenik/Library/CloudStorage/iCloud Drive/Documents/C# Practice/Clock Angles/obj/Debug/netcoreapp2.1/Clock Angles.AssemblyInfo.cs
+/Users/dexfenik/Library/CloudStorage/iCloud Drive/Documents/C# Practice/Clock Angles/obj/Debug/netcoreapp2.1/Clock Angles.dll
+/Users/dexfenik/Library/CloudStorage/iCloud Drive/Documents/C# Practice/Clock Angles/obj/Debug/netcoreapp2.1/Clock Angles.pdb

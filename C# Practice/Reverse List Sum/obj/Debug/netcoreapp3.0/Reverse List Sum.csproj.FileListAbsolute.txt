@@ -1,0 +1,11 @@
+/Users/dexfenik/Documents/C# Practice/Reverse List Sum/bin/Debug/netcoreapp3.0/Reverse List Sum
+/Users/dexfenik/Documents/C# Practice/Reverse List Sum/bin/Debug/netcoreapp3.0/Reverse List Sum.deps.json
+/Users/dexfenik/Documents/C# Practice/Reverse List Sum/bin/Debug/netcoreapp3.0/Reverse List Sum.runtimeconfig.json
+/Users/dexfenik/Documents/C# Practice/Reverse List Sum/bin/Debug/netcoreapp3.0/Reverse List Sum.runtimeconfig.dev.json
+/Users/dexfenik/Documents/C# Practice/Reverse List Sum/bin/Debug/netcoreapp3.0/Reverse List Sum.dll
+/Users/dexfenik/Documents/C# Practice/Reverse List Sum/bin/Debug/netcoreapp3.0/Reverse List Sum.pdb
+/Users/dexfenik/Documents/C# Practice/Reverse List Sum/obj/Debug/netcoreapp3.0/Reverse List Sum.csprojAssemblyReference.cache
+/Users/dexfenik/Documents/C# Practice/Reverse List Sum/obj/Debug/netcoreapp3.0/Reverse List Sum.AssemblyInfoInputs.cache
+/Users/dexfenik/Documents/C# Practice/Reverse List Sum/obj/Debug/netcoreapp3.0/Reverse List Sum.AssemblyInfo.cs
+/Users/dexfenik/Documents/C# Practice/Reverse List Sum/obj/Debug/netcoreapp3.0/Reverse List Sum.dll
+/Users/dexfenik/Documents/C# Practice/Reverse List Sum/obj/Debug/netcoreapp3.0/Reverse List Sum.pdb

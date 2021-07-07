@@ -1,0 +1,11 @@
+/Users/dexfenik/Documents/C# Practice/Linked List Practice/bin/Debug/netcoreapp3.0/Linked List Practice
+/Users/dexfenik/Documents/C# Practice/Linked List Practice/bin/Debug/netcoreapp3.0/Linked List Practice.deps.json
+/Users/dexfenik/Documents/C# Practice/Linked List Practice/bin/Debug/netcoreapp3.0/Linked List Practice.runtimeconfig.json
+/Users/dexfenik/Documents/C# Practice/Linked List Practice/bin/Debug/netcoreapp3.0/Linked List Practice.runtimeconfig.dev.json
+/Users/dexfenik/Documents/C# Practice/Linked List Practice/bin/Debug/netcoreapp3.0/Linked List Practice.dll
+/Users/dexfenik/Documents/C# Practice/Linked List Practice/bin/Debug/netcoreapp3.0/Linked List Practice.pdb
+/Users/dexfenik/Documents/C# Practice/Linked List Practice/obj/Debug/netcoreapp3.0/Linked List Practice.csprojAssemblyReference.cache
+/Users/dexfenik/Documents/C# Practice/Linked List Practice/obj/Debug/netcoreapp3.0/Linked List Practice.AssemblyInfoInputs.cache
+/Users/dexfenik/Documents/C# Practice/Linked List Practice/obj/Debug/netcoreapp3.0/Linked List Practice.AssemblyInfo.cs
+/Users/dexfenik/Documents/C# Practice/Linked List Practice/obj/Debug/netcoreapp3.0/Linked List Practice.dll
+/Users/dexfenik/Documents/C# Practice/Linked List Practice/obj/Debug/netcoreapp3.0/Linked List Practice.pdb
