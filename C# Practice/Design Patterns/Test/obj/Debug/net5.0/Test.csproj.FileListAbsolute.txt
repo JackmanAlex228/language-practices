@@ -1,0 +1,15 @@
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/bin/Debug/net5.0/Test.deps.json
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/bin/Debug/net5.0/Test.runtimeconfig.json
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/bin/Debug/net5.0/Test.runtimeconfig.dev.json
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/bin/Debug/net5.0/Test.dll
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/bin/Debug/net5.0/ref/Test.dll
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/bin/Debug/net5.0/Test.pdb
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/obj/Debug/net5.0/Test.csproj.AssemblyReference.cache
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/obj/Debug/net5.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/obj/Debug/net5.0/Test.AssemblyInfoInputs.cache
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/obj/Debug/net5.0/Test.AssemblyInfo.cs
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/obj/Debug/net5.0/Test.csproj.CoreCompileInputs.cache
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/obj/Debug/net5.0/Test.dll
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/obj/Debug/net5.0/ref/Test.dll
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/obj/Debug/net5.0/Test.pdb
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/Test/obj/Debug/net5.0/Test.genruntimeconfig.cache
