@@ -1,0 +1,15 @@
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/obj/Debug/net5.0/Single-Responsibility.csproj.AssemblyReference.cache
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/obj/Debug/net5.0/Single-Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/obj/Debug/net5.0/Single-Responsibility.AssemblyInfoInputs.cache
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/obj/Debug/net5.0/Single-Responsibility.AssemblyInfo.cs
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/obj/Debug/net5.0/Single-Responsibility.csproj.CoreCompileInputs.cache
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/bin/Debug/net5.0/Single-Responsibility.deps.json
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/bin/Debug/net5.0/Single-Responsibility.runtimeconfig.json
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/bin/Debug/net5.0/Single-Responsibility.runtimeconfig.dev.json
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/bin/Debug/net5.0/Single-Responsibility.dll
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/bin/Debug/net5.0/ref/Single-Responsibility.dll
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/bin/Debug/net5.0/Single-Responsibility.pdb
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/obj/Debug/net5.0/Single-Responsibility.dll
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/obj/Debug/net5.0/ref/Single-Responsibility.dll
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/obj/Debug/net5.0/Single-Responsibility.pdb
+/Users/dexfenik/Documents/Git Repositories/Language Practices/C# Practice/Design Patterns/SOLID/Single-Responsibility/obj/Debug/net5.0/Single-Responsibility.genruntimeconfig.cache
